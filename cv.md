@@ -1,17 +1,18 @@
 # CV - NIHAD KHANTOR
-##Formation
+## Formation
 Etudiante en data and software engineering en institut nationnal de statistiques et d'économie appliquée
-##Tech skills
+## Tech skills
 - Python
 - SQL
 - C
 - Java
-##Soft skills
+- Git/Github
+## Soft skills
 - Organisation de travail
 - Gestion du temps
 - Esprit analytique
 - CollaborationMotivation
-##Langues
+## Langues
 - Arabe: langue maternelle
 - Français: courant
 - Anglais: courant
