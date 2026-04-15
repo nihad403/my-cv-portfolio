@@ -1,11 +1,11 @@
-#Skills
-##Techniques
+# Skills
+## Techniques
 - Python
 - SQL
 - C
 - Java
 - Git / Github
-##Soft
+## Soft
 - Organisation de travail
 - Gestion du temps
 - Esprit analytique
