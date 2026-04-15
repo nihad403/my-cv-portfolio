@@ -17,3 +17,5 @@ Etudiante en data and software engineering en institut nationnal de statistiques
 - Français: courant
 - Anglais: courant
 - Espagnol: débutant
+## Projet
+- Création d’un CV avec GitHub
