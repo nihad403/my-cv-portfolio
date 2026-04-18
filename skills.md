@@ -9,4 +9,5 @@
 - Organisation de travail
 - Gestion du temps
 - Esprit analytique
-- CollaborationMotivation
+- Collaboration
+- Motivation
